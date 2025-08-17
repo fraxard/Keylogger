@@ -1,0 +1,11 @@
+⚠️ Heads Up!
+  
+This is a demo keylogger, made just for learning and experimenting.
+If you run it blindly on your own laptop/PC, guess what? You’re only logging your own stuff 🤦‍♂️ — like your username, machine name, system info, active windows, and whatever keys you type. (Yeah… someone already did this and ended up exposing their own details like name, private IP, machine info and all).
+
+👉 So here’s the deal:
+  Run it only in a virtual machine / test environment.
+  Don’t even think about using it on others — that’s illegal and can land you in trouble.
+  Treat it as a learning tool, not a hacking toy.
+
+Play smart, stay safe, don’t be that guy.  
